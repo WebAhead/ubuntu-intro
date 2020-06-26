@@ -88,3 +88,5 @@ Go to ` Control Panel > System and Security > Create and format hard disk partit
 - ## [Download Chrome](https://www.google.com/chrome/?platform=linux)
 
 - ## [Download VSCode](https://code.visualstudio.com/download)
+
+- ### [Once everything is downloaded read through the next workshop's intro!](https://github.com/WebAhead/cli-intro)
